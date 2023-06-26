@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: My Workflow
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Finn
+    family-names: Bacall
+    email: finn.bacall@manchester.ac.uk
+    affiliation: University of Manchester
+    orcid: 'https://orcid.org/0000-0002-0048-3300'
+  - given-names: Stuart
+    family-names: Owen
+    email: stuart.owen@manchester.ac.uk
+    affiliation: University of Manchester
+    orcid: 'https://orcid.org/0000-0003-2130-0865'
+license: MIT
