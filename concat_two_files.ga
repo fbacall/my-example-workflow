@@ -1,16 +1,7 @@
 {
     "a_galaxy_workflow": "true",
     "annotation": "",
-    "creator": [
-        {
-            "class": "Person",
-            "identifier": "",
-            "name": "Finn Bacall"
-        }
-    ],
     "format-version": "0.1",
-    "license": "MIT",
-    "name": "Concat two files",
     "steps": {
         "0": {
             "annotation": "",
