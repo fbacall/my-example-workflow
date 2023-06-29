@@ -1,6 +1,7 @@
 {
     "a_galaxy_workflow": "true",
     "annotation": "",
+    "name": "My Revised Workflow",
     "format-version": "0.1",
     "steps": {
         "0": {
